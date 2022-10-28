@@ -1,4 +1,5 @@
 Used as mini frontend because of Leaflet map component is static. With useage of this application there is possibility to set multiple maps on same page.
+![frontend map usage](https://user-images.githubusercontent.com/57487655/198682989-e4532afd-e1e7-4ee8-8fe4-e42dd8efc3cb.png)
 
 # Map
 
