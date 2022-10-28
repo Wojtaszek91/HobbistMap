@@ -1,3 +1,5 @@
+Used as mini frontend because of Leaflet map component is static. With useage of this application there is possibility to set multiple maps on same page.
+
 # Map
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
